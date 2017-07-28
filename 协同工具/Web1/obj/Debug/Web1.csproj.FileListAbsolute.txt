@@ -1,0 +1,12 @@
+E:\File\hf\Test\Web1\bin\Native.Web1.manifest
+E:\File\hf\Test\Web1\bin\Web1.dll
+E:\File\hf\Test\Web1\bin\Web1.pdb
+E:\File\hf\Test\Web1\bin\Interop.Cryp_Ctl.dll
+E:\File\hf\Test\Web1\bin\Cryp_Ctl.ocx
+E:\File\hf\Test\Web1\bin\Native.CryptCtlDll.manifest
+E:\File\hf\Test\Web1\obj\Debug\Web1.csprojResolveAssemblyReference.cache
+E:\File\hf\Test\Web1\obj\Debug\Interop.Cryp_Ctl.dll
+E:\File\hf\Test\Web1\obj\Debug\Web1.csproj.ResolveComReference.cache
+E:\File\hf\Test\Web1\obj\Debug\Native.Web1.manifest
+E:\File\hf\Test\Web1\obj\Debug\Web1.dll
+E:\File\hf\Test\Web1\obj\Debug\Web1.pdb

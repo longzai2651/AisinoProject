@@ -1,0 +1,69 @@
+ 第二次请求 参数 param2
+  
+  param2={
+	    "type":"CLIENT-AUTH",
+	    "clientAuthCode":clientAuthCode,//这个值是第一次请求key2与盘交互得到的字符串
+	    "serverRandom":serverRandom,//这个值是第一次请求key3的值
+	    "password":"88888888",//盘的密码
+	    "cert":cert,//在盘里获取的税号
+	    "ymbb":"3.0.09"
+	        };
+
+
+
+第二次请求地址：https://fpdk.bjsat.gov.cn/SbsqWW/login.do
+
+最终返回的应该是个json格式的字符串
+
+
+
+
+
+
+同步数据请求：
+https://fpdk.bjsat.gov.cn/SbsqWW/gxcx.do
+
+请求格式POST
+
+参数
+
+	   var json={
+	   "fpdm":fpdm,  //fpdm先传个空
+	   "fphm":fphm, //fphm先传个空
+	   "rq_q":rq_q,  //rq_q 可以获取当前日期减去一个月   日期格式：2017-05-01
+	   "rq_z":rq_z, //rq_z 当前日期   日期格式：2017-05-01
+	   "xfsbh":xfsbh,//空
+	   "rzfs":rzfs,//空
+	   "rzzt":rzzt,//0   
+	   "gxzt":gxzt,//0
+	   "fpzt":fpzt,//0
+	   "fplx":fplx,//-1
+	   "cert":cert,//是从盘里获取的税号
+	   "token":token,//第二次请求返回的token（key2）
+	   "ymbb":ymbb,//3.0.09
+	   "aoData":JSON.stringify(aoData)} //aoData见下面 是一个对象数组拼成的字符串 
+
+
+         var aoData=[];
+	  aoData.push({name:'sEcho',value:0});
+	  aoData.push({name:'iColumns',value:14});
+	  aoData.push({name:'sColumns',value:',,,,,,,,,,,,,'});
+	  aoData.push({name:'iDisplayStart',value:0});
+	  aoData.push({name:'iDisplayLength',value:8000});
+		for(var i=0;i<13;i++){
+			aoData.push({name:'mDataProp_'+i,value:i});
+		}
+	   };
+
+stringify(aoData)
+{
+ var aoData=[];
+	  aoData.push({name:'sEcho',value:0});
+	  aoData.push({name:'iColumns',value:14});
+	  aoData.push({name:'sColumns',value:',,,,,,,,,,,,,'});
+	  aoData.push({name:'iDisplayStart',value:0});
+	  aoData.push({name:'iDisplayLength',value:8000});
+		for(var i=0;i<13;i++){
+			aoData.push({name:'mDataProp_'+i,value:i});
+		}
+}

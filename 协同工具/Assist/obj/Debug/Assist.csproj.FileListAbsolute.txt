@@ -1,0 +1,12 @@
+E:\File\hf\Test\Assist\bin\Debug\Assist.exe.config
+E:\File\hf\Test\Assist\bin\Debug\Assist.exe
+E:\File\hf\Test\Assist\bin\Debug\Assist.pdb
+E:\File\hf\Test\Assist\bin\Debug\Newtonsoft.Json.dll
+E:\File\hf\Test\Assist\obj\Debug\Interop.Cryp_Ctl.dll
+E:\File\hf\Test\Assist\obj\Debug\Assist.csproj.ResolveComReference.cache
+E:\File\hf\Test\Assist\obj\Debug\Assist.Form1.resources
+E:\File\hf\Test\Assist\obj\Debug\Assist.Properties.Resources.resources
+E:\File\hf\Test\Assist\obj\Debug\Assist.csproj.GenerateResource.Cache
+E:\File\hf\Test\Assist\obj\Debug\Assist.exe
+E:\File\hf\Test\Assist\obj\Debug\Assist.pdb
+E:\File\hf\Test\Assist\obj\Debug\Assist.csprojResolveAssemblyReference.cache

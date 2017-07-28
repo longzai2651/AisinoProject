@@ -1,0 +1,165 @@
+
+2017-07-21 04:07:02******LOG_LEVENL:0******function:http_Load
+
+success 123
+
+2017-07-21 04:10:09******LOG_LEVENL:0******function:http_Load
+
+success 123
+
+2017-07-21 04:11:00******LOG_LEVENL:0******function:http_Load
+
+success 123
+
+2017-07-21 04:40:47******LOG_LEVENL:0******function:RequestPost
+
+System.Net.ProtocolViolationException: 写入流的字节超出指定的 Content-Length 字节大小。
+   在 System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 54
+
+2017-07-21 04:40:47******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:42:28******LOG_LEVENL:0******function:RequestPost
+
+System.Net.ProtocolViolationException: 写入流的字节超出指定的 Content-Length 字节大小。
+   在 System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 54
+
+2017-07-21 04:42:28******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:44:12******LOG_LEVENL:0******function:RequestPost
+
+System.Net.ProtocolViolationException: 写入流的字节超出指定的 Content-Length 字节大小。
+   在 System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 54
+
+2017-07-21 04:44:12******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:49:27******LOG_LEVENL:0******function:RequestPost
+
+System.Net.ProtocolViolationException: 写入流的字节超出指定的 Content-Length 字节大小。
+   在 System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 54
+
+2017-07-21 04:49:27******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:50:31******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 56
+
+2017-07-21 04:50:31******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:51:54******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 56
+
+2017-07-21 04:51:54******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:52:32******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 56
+
+2017-07-21 04:52:32******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:52:56******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 56
+
+2017-07-21 04:52:56******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 04:54:53******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 56
+
+2017-07-21 04:54:53******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 05:07:30******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-21 05:07:30******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 05:12:45******LOG_LEVENL:0******function:http_Load
+
+success 123
+
+2017-07-21 05:21:27******LOG_LEVENL:0******function:RequestPost
+
+System.Net.ProtocolViolationException: 写入流的字节超出指定的 Content-Length 字节大小。
+   在 System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 54
+
+2017-07-21 05:21:27******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 05:22:40******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-21 05:22:40******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 05:26:14******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-21 05:26:14******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-21 05:27:58******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 192.168.1.100:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 49
+
+2017-07-21 05:27:58******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog

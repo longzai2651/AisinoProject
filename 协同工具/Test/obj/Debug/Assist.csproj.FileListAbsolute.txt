@@ -1,0 +1,17 @@
+E:\File\hf\Test\Test\bin\Debug\Assist.exe.config
+E:\File\hf\Test\Test\bin\Debug\Assist.exe
+E:\File\hf\Test\Test\bin\Debug\Assist.pdb
+E:\File\hf\Test\Test\bin\Debug\CryptCtlDll.dll
+E:\File\hf\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\File\hf\Test\Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\File\hf\Test\Test\bin\Debug\CryptCtlDll.pdb
+E:\File\hf\Test\Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\File\hf\Test\Test\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\File\hf\Test\Test\obj\Debug\Assist.csprojResolveAssemblyReference.cache
+E:\File\hf\Test\Test\obj\Debug\Test.JSON.resources
+E:\File\hf\Test\Test\obj\Debug\Assist.Properties.Resources.resources
+E:\File\hf\Test\Test\obj\Debug\Assist.csproj.GenerateResource.Cache
+E:\File\hf\Test\Test\obj\Debug\Assist.exe
+E:\File\hf\Test\Test\obj\Debug\Assist.pdb
+E:\File\hf\Test\Test\obj\Debug\Assist.Form1.resources
+E:\File\hf\Test\Test\obj\Debug\Assist.http.resources

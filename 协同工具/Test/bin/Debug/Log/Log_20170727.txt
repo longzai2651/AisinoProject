@@ -1,0 +1,42 @@
+
+2017-07-27 04:44:04******LOG_LEVENL:0******function:getJsonob
+
+System.MissingMethodException: 没有为类型“System.String”定义无参数的构造函数。
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToType(Object o, Type type, JavaScriptSerializer serializer)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   在 CryptCtlDll.Common.getJsonob(String jsonString) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 90
+
+2017-07-27 05:10:48******LOG_LEVENL:0******function:getJsonob
+
+System.MissingMethodException: 没有为类型“System.String”定义无参数的构造函数。
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToType(Object o, Type type, JavaScriptSerializer serializer)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   在 CryptCtlDll.Common.getJsonob(String jsonString) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 90
+
+2017-07-27 05:11:56******LOG_LEVENL:0******function:getJsonob
+
+System.MissingMethodException: 没有为类型“System.String”定义无参数的构造函数。
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToType(Object o, Type type, JavaScriptSerializer serializer)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   在 CryptCtlDll.Common.getJsonob(String jsonString) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 90

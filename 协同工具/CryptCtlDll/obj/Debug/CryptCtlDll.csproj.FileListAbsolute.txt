@@ -1,0 +1,14 @@
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.csprojResolveAssemblyReference.cache
+E:\File\hf\Test\CryptCtlDll\obj\Debug\Interop.Cryp_Ctl.dll
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.csproj.ResolveComReference.cache
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.Properties.Resources.resources
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.csproj.GenerateResource.Cache
+E:\File\hf\Test\CryptCtlDll\bin\Debug\Native.CryptCtlDll.manifest
+E:\File\hf\Test\CryptCtlDll\bin\Debug\CryptCtlDll.dll
+E:\File\hf\Test\CryptCtlDll\bin\Debug\CryptCtlDll.pdb
+E:\File\hf\Test\CryptCtlDll\bin\Debug\CryptCtlDll.tlb
+E:\File\hf\Test\CryptCtlDll\bin\Debug\Newtonsoft.Json.dll
+E:\File\hf\Test\CryptCtlDll\bin\Debug\Cryp_Ctl.ocx
+E:\File\hf\Test\CryptCtlDll\obj\Debug\Native.CryptCtlDll.manifest
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.dll
+E:\File\hf\Test\CryptCtlDll\obj\Debug\CryptCtlDll.pdb

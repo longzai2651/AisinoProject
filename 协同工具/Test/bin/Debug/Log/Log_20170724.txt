@@ -1,0 +1,684 @@
+
+2017-07-24 08:44:05******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-24 08:44:07******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-24 09:08:57******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('success');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZHKpM9GtQXIMUoxab0lC7kBZFSeD" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLd+93HDAKgwImNC9Ma5GVxQ/zzsTLy02nyx3WbuTBn" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:12:01******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('success');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZHKpM9GtQXIMUoxab0lC7kBZFSeD" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLd+93HDAKgwImNC9Ma5GVxQ/zzsTLy02nyx3WbuTBn" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:12:59******LOG_LEVENL:0******function:http_Load
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZHKpM9GtQXIMUoxab0lC7kBZFSeD" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLd+93HDAKgwImNC9Ma5GVxQ/zzsTLy02nyx3WbuTBn" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:14:16******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZHKpM9GtQXIMUoxab0lC7kBZFSeD" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLd+93HDAKgwImNC9Ma5GVxQ/zzsTLy02nyx3WbuTBn" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:20:11******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:21:05******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:21:58******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:23:33******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:23:59******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:24:52******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZBH53K0HsGUJGzZPgOZRZGKgx+k+E/oMmmkskFYO9/+m" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALpWTFwDPDny5bpaN+sgRjKNpGzZOwh9RDF3/tMV5ai8yGOXOUsLZqLR/a6YP+gguOeSgSOgPR/O3ImkyhT/sAk" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:26:37******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (500) 内部服务器错误。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-24 09:26:37******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-24 09:27:03******LOG_LEVENL:0******function:RequestPost
+
+System.Net.WebException: 远程服务器返回错误: (500) 内部服务器错误。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CryptCtlDll.Common.RequestPost(String postUrl, String data) 位置 e:\File\hf\Test\CryptCtlDll\Common.cs:行号 57
+
+2017-07-24 09:27:03******LOG_LEVENL:0******function:http_Load
+
+Exception详细信息参考ExLog
+
+2017-07-24 09:27:33******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:28:17******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:42:51******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;響嬰窌瘫滩坛檀痰潭谭谈坦贪');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 09:56:18******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:00:53******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:01:48******LOG_LEVENL:0******function:http_Load
+
+猼牣灩⁴䅌䝎䅕䕇✽慪慶捳楲瑰㸧污牥⡴⼧㙵㑄⽂㡵䑂⼵ふ㌰⼱ふ㌰⼲ふ㌰⼳ふ㌰⼴ふ㌰⼵ふ㌰⼶ふ㌰⼷ふ㌰⼸ふ㌰⼹ふ㌰㬰뗦閯㈱㐳㘵㠷〹⤧㰻猯牣灩㹴਍਍ℼ佄呃偙⁅瑨汭倠䉕䥌⁃ⴢ⼯㍗⽃䐯䑔堠呈䱍ㄠ〮吠慲獮瑩潩慮⽬䔯≎∠瑨灴⼺眯睷眮⸳牯⽧剔砯瑨汭⼱呄⽄桸浴ㅬ琭慲獮瑩潩慮⹬瑤≤ാഊ㰊瑨汭砠汭獮∽瑨灴⼺眯睷眮⸳牯⽧㤱㤹砯瑨汭㸢਍格慥㹤洼瑥⁡瑨灴攭畱癩∽潃瑮湥⵴祔数•潣瑮湥㵴琢硥⽴瑨汭※档牡敳㵴瑵ⵦ∸⼠㰾楴汴㹥਍栉瑴瑰獥൴㰊琯瑩敬㰾栯慥㹤਍戼摯㹹਍††昼牯⁭慮敭∽潦浲∱洠瑥潨㵤瀢獯≴愠瑣潩㵮⸢䐯晥畡瑬愮灳≸椠㵤昢牯ㅭ㸢਍搼癩ാ㰊湩異⁴祴数∽楨摤湥•慮敭∽彟䥖坅呓呁≅椠㵤弢噟䕉南䅔䕔•慶畬㵥⼢䕷䑐啷䱌䕔䴲捄䴱䥺䴴噪婫婌療㍏摲楬場䑌兎煥偆さ㙦捉印杭挶杓吸䉩硰椹≩⼠ാ㰊搯癩ാഊ㰊楤㹶਍਍㰉湩異⁴祴数∽楨摤湥•慮敭∽彟䥖坅呓呁䝅久剅呁剏•摩∽彟䥖坅呓呁䝅久剅呁剏•慶畬㵥䌢ぁあ㌳∴⼠ാऊ椼灮瑵琠灹㵥栢摩敤≮渠浡㵥弢䕟䕖呎䅖䥌䅄䥔乏•摩∽彟噅久噔䱁䑉呁佉≎瘠污敵∽眯摅䅁祌㔳㙢煮权睢捋瑁⽸奵㤫灎穇佚桷刹䙄⼳䵴㕖楡㈸慃潶䩴㡏桋㍊卂扩晢慕啶䙐䤳汣䱗潁⬱㍌歨捎㕳•㸯਍⼼楤㹶਍††搼癩ാ †栠瑴൰ †††㰠湩異⁴祴数∽畳浢瑩•慮敭∽瑣ぬ∳瘠污敵∽瑢≮⼠ാ †㰠搯癩ാ †㰠是牯㹭਍⼼潢祤ാ㰊栯浴㹬਍
+
+2017-07-24 10:02:19******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('false');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:02:32******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('false');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:03:53******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;娴嬭瘯1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:04:41******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u6D4B/u8BD5/u0031/u0032/u0033/u0034/u0035/u0036/u0037/u0038/u0039/u0030;测试1234567890');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:07:43******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u002F/u0075/u0030/u0030/u0037/u0041/u002F/u0075/u0030/u0030/u0036/u0034/u002F/u0075/u0030/u0030/u0037/u0034/u002F/u0075/u0030/u0030/u0036/u0032/u002F/u0075/u0030/u0030/u0036/u0034/u002F/u0075/u0030/u0030/u0036/u0031/u002F/u0075/u0030/u0030/u0037/u0034/u002F/u0075/u0030/u0030/u0036/u0031/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0035/u0042/u002F/u0075/u0030/u0030/u0035/u0042/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0033/u0038/u002F/u0075/u0030/u0030/u0033/u0038/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0044/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0039/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0035/u0033/u0031/u0037/u002F/u0075/u0034/u0045/u0041/u0043/u002F/u0075/u0034/u0045/u0041/u0043/u002F/u0075/u0034/u0045/u0031/u0043/u002F/u0075/u0034/u0045/u0031/u0036/u002F/u0075/u0037/u0045/u0041/u0041/u002F/u0075/u0034/u0046/u0045/u0031/u002F/u0075/u0036/u0030/u0036/u0046/u002F/u0075/u0036/u0032/u0038/u0030/u002F/u0075/u0036/u0037/u0032/u0046/u002F/u0075/u0036/u0037/u0030/u0039/u002F/u0075/u0039/u0036/u0035/u0030/u002F/u0075/u0035/u0031/u0036/u0043/u002F/u0075/u0035/u0033/u0046/u0038/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0045/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0032/u0045/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0039/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0033/u0039/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0035/u0044/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0035/u0042/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0044/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0035/u0033/u0031/u0037/u002F/u0075/u0034/u0045/u0041/u0043/u002F/u0075/u0035/u0043/u0042/u0033/u002F/u0075/u0036/u0043/u0046/u0030/u002F/u0075/u0035/u0034/u0030/u0043/u002F/u0075/u0037/u0036/u0044/u0042/u002F/u0075/u0037/u0045/u0043/u0046/u002F/u0075/u0038/u0044/u0033/u0038/u002F/u0075/u0035/u0033/u0044/u0031/u002F/u0075/u0035/u0043/u0035/u0035/u002F/u0075/u0036/u0037/u0030/u0039/u002F/u0075/u0039/u0036/u0035/u0030/u002F/u0075/u0035/u0031/u0036/u0043/u002F/u0075/u0035/u0033/u0046/u0038/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0032/u0045/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0032/u0045/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0033/u0033/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0036/u0045/u002F/u0075/u0030/u0030/u0037/u0035/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0036/u0043/u002F/u0075/u0030/u0030/u0032/u0043/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0033/u0039/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0030/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0038/u002F/u0075/u0030/u0030/u0033/u0031/u002F/u0075/u0030/u0030/u0033/u0032/u002F/u0075/u0030/u0030/u0033/u0034/u002F/u0075/u0030/u0030/u0033/u0037/u002F/u0075/u0030/u0030/u0033/u0035/u002F/u0075/u0030/u0030/u0033/u0036/u002F/u0075/u0030/u0030/u0033/u0039/u002F/u0075/u0030/u0030/u0035/u0035/u002F/u0075/u0030/u0030/u0032/u0032/u002F/u0075/u0030/u0030/u0035/u0044/u002F/u0075/u0030/u0030/u0035/u0044;/u007A/u0064/u0074/u0062/u0064/u0061/u0074/u0061/u003D/u005B/u005B/u0022/u0030/u003D/u0030/u003D/u0030/u003D/u0030/u0022/u002C/u0022/u0031/u0031/u0030/u0030/u0031/u0037/u0031/u0031/u0033/u0030/u0022/u002C/u0022/u0030/u0037/u0038/u0038/u0035/u0033/u0033/u0030/u0022/u002C/u0022/u0032/u0030/u0031/u0037/u002D/u0030/u0037/u002D/u0031/u0039/u0022/u002C/u0022/u5317/u4EAC/u4EAC/u4E1C/u4E16/u7EAA/u4FE1/u606F/u6280/u672F/u6709/u9650/u516C/u53F8/u0022/u002C/u0022/u0031/u0032/u0037/u002E/u0033/u0035/u0022/u002C/u0022/u0032/u0031/u002E/u0036/u0035/u0022/u002C/u0022/u0030/u0022/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0031/u0031/u0030/u0031/u0039/u0032/u0035/u0036/u0032/u0031/u0033/u0034/u0039/u0031/u0036/u0022/u005D/u002C/u005B/u0022/u0030/u003D/u0030/u003D/u0030/u003D/u0030/u0022/u002C/u0022/u0031/u0031/u0030/u0030/u0031/u0036/u0034/u0031/u0033/u0030/u0022/u002C/u0022/u0030/u0030/u0036/u0033/u0034/u0035/u0034/u0034/u0022/u002C/u0022/u0032/u0030/u0031/u0037/u002D/u0030/u0037/u002D/u0030/u0036/u0022/u002C/u0022/u5317/u4EAC/u5CB3/u6CF0/u540C/u76DB/u7ECF/u8D38/u53D1/u5C55/u6709/u9650/u516C/u53F8/u0022/u002C/u0022/u0033/u0036/u0036/u0036/u002E/u0036/u0037/u0022/u002C/u0022/u0036/u0032/u0033/u002E/u0033/u0033/u0022/u002C/u0022/u0030/u0022/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0039/u0031/u0031/u0031/u0030/u0031/u0030/u0035/u0036/u0038/u0031/u0032/u0034/u0037/u0035/u0036/u0039/u0055/u0022/u005D/u005D');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 10:10:39******LOG_LEVENL:0******function:http_Load
+
+<script LANGUAGE='javascript'>alert('/u007A/u0064/u0074/u0062/u0064/u0061/u0074/u0061/u003D/u005B/u005B/u0022/u0030/u003D/u0030/u003D/u0030/u003D/u0030/u0022/u002C/u0022/u0031/u0031/u0030/u0030/u0031/u0037/u0031/u0031/u0033/u0030/u0022/u002C/u0022/u0030/u0037/u0038/u0038/u0035/u0033/u0033/u0030/u0022/u002C/u0022/u0032/u0030/u0031/u0037/u002D/u0030/u0037/u002D/u0031/u0039/u0022/u002C/u0022/u5317/u4EAC/u4EAC/u4E1C/u4E16/u7EAA/u4FE1/u606F/u6280/u672F/u6709/u9650/u516C/u53F8/u0022/u002C/u0022/u0031/u0032/u0037/u002E/u0033/u0035/u0022/u002C/u0022/u0032/u0031/u002E/u0036/u0035/u0022/u002C/u0022/u0030/u0022/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0031/u0031/u0030/u0031/u0039/u0032/u0035/u0036/u0032/u0031/u0033/u0034/u0039/u0031/u0036/u0022/u005D/u002C/u005B/u0022/u0030/u003D/u0030/u003D/u0030/u003D/u0030/u0022/u002C/u0022/u0031/u0031/u0030/u0030/u0031/u0036/u0034/u0031/u0033/u0030/u0022/u002C/u0022/u0030/u0030/u0036/u0033/u0034/u0035/u0034/u0034/u0022/u002C/u0022/u0032/u0030/u0031/u0037/u002D/u0030/u0037/u002D/u0030/u0036/u0022/u002C/u0022/u5317/u4EAC/u5CB3/u6CF0/u540C/u76DB/u7ECF/u8D38/u53D1/u5C55/u6709/u9650/u516C/u53F8/u0022/u002C/u0022/u0033/u0036/u0036/u0036/u002E/u0036/u0037/u0022/u002C/u0022/u0036/u0032/u0033/u002E/u0033/u0033/u0022/u002C/u0022/u0030/u0022/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0030/u0022/u002C/u006E/u0075/u006C/u006C/u002C/u0022/u0039/u0031/u0031/u0031/u0030/u0031/u0030/u0035/u0036/u0038/u0031/u0032/u0034/u0037/u0035/u0036/u0039/u0055/u0022/u005D/u005D;zdtbdata=[["0=0=0=0","1100171130","07885330","2017-07-19","北京京东世纪信息技术有限公司","127.35","21.65","0","0",null,"0",null,"0",null,"110192562134916"],["0=0=0=0","1100164130","00634544","2017-07-06","北京岳泰同盛经贸发展有限公司","3666.67","623.33","0","0",null,"0",null,"0",null,"91110105681247569U"]]');</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	httptest
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc1MzI4MjVkZLZBvO3rdli4XLDNQeqFPU0f6IcpSmg6cSg8TiBpx9ii" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALy35b6nqCgbwKcAtx/uY+9NpGzZOwh9RDF3/tMV5ai82CavotJO8KhJ3BSibbfUavUPF3IclWLAo1+L3hkNcs5" />
+</div>
+    <div>
+    http
+        <input type="submit" name="ctl03" value="btn" />
+    </div>
+    </form>
+</body>
+</html>
+
+
+2017-07-24 12:18:34******LOG_LEVENL:0******function:http_Load
+
+success 123
+
+2017-07-24 12:25:11******LOG_LEVENL:0******function:http_Load
+
+{error:'未知错误，请联系管理员！'}
+
+2017-07-24 12:25:57******LOG_LEVENL:0******function:http_Load
+
+{error:'未知错误，请联系管理员！'}
+
+2017-07-24 12:27:35******LOG_LEVENL:0******function:http_Load
+
+{error:'未知错误，请联系管理员！'}
+
+2017-07-24 12:34:43******LOG_LEVENL:0******function:http_Load
+
+success 123
